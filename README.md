@@ -1,0 +1,2 @@
+# -Investigate-a-Dataset-Medical-Appointments-No-Shows-
+In this project I have investigated a dataset of appoinment records for Brasil public hospitals. The data includes some attributes of patients and state if the patients showed up to appointments. The analysis is focused on finding trends influencing patients to show or not show up to appointments.  The original problem description and data set can be found here: https://www.kaggle.com/joniarroba/noshowappointments/home
